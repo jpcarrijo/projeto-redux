@@ -8,6 +8,10 @@ h1 {
   font-weight: 200;
 }
 
+strong {
+  font-weight: 200;
+}
+
 .linha {
   display: flex;
 }
